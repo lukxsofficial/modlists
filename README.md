@@ -1,3 +1,23 @@
+# Ashveil - Eine deutsche Modliste
+
+**Ashveil ist eine düstere Totalüberarbeitung von Skyrim SE**, inspiriert von Soulslike-Gameplay, intensiver Immersion, tödlichem Überleben und einer hochwertigen visuellen Präsentation.  
+Hier gibt es keine Heldenreise – nur Prüfung, Kälte und Schmerz.
+
+---
+
+## ✦ Features
+
+- Soulslike-Kampfsystem mit Ausweichen, Präzisions-Treffern und Stamina-Management
+- Kein Pausieren: Kämpfen, Tränke-Management, Magie – alles in Echtzeit
+- ENB-Grafik, 4K-Texturen, physikbasierte Rüstungen und Haare (HDT-SMP)
+- Komplettes Female/Male-Overhaul (CBBE, 3BA, HIMBO, Bodyslide)
+- Überarbeitetes UI, HUD, Animationen und KI-Verhalten
+- Eiskalte Atmosphäre mit hohem Schwierigkeitsgrad und starkem Lore-Gefühl
+
+---
+
+### Ein paar Worte
+Willkommen zu *Ashveil* – meiner ersten Modliste für Skyrim!
 
 Es war eine aufregende und lehrreiche Reise, diese Modliste zusammenzustellen, und ich hoffe, dass du sie genauso genießen wirst wie ich. Da dies meine erste Modliste ist, kann es sein, dass sich hier und da Fehler oder Inkompatibilitäten einschleichen. 
 Ich habe mein Bestes gegeben, um alles so gut wie möglich zu testen und sicherzustellen, dass es reibungslos läuft. Falls du auf Probleme stößt, bitte zögere nicht, Feedback zu geben, damit ich die Liste weiter verbessern kann!
