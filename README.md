@@ -71,14 +71,12 @@ Heißt, es könnnen Bugs etc. auftreten. Ich werde versuchen die Modliste so sch
 
 ---
 
-## NSFW-Inhalte
+**Wichtige Klarstellung zu Body-Mods:**
 
-Ashveil enthält **NSFW-Inhalte**, da viele Mods wie **CBBE/3BA** und **HDT-SMP** verwendet werden, die bestimmte **Körper- und Rüstungsmodifikationen** beinhalten, die nicht deaktiviert werden können. 
-Diese Inhalte sind ein wesentlicher Bestandteil des Modpacks und können nicht entfernt werden. Wenn du **NSFW-Inhalte** nicht bevorzugst, ist diese Modliste möglicherweise nicht die richtige Wahl für dich.
-Es wird empfohlen, dass du in einer Umgebung spielst, die dies unterstützt.
+Ashveil verwendet CBBE, 3BA (weiblich) und HIMBO (männlich) sowie BodySlide als Grundlage für nahezu alle Rüstungsmods. Diese Mods sind technisch notwendig, um HDT-Physik, neue Outfits und Körperanimationen korrekt darstellen zu können.
+Ashveil enthält keine expliziten oder pornografischen Inhalte. Wenn du nachträglich Mods installierst, die Nacktheit oder sexuelle Inhalte aktivieren, geschieht das auf eigene Verantwortung – in dem Fall gibt es keinen Support mehr.
 
-Es gibt keine nackten Frauen / Männer!
-Nur Rüstungen die evtl. viel Haut zeigen
+**Ich biete keine Hilfe bei Problemen mit NSFW-Modifikationen oder bei manuell veränderten Installationen.**
 
 ---
 
