@@ -19,7 +19,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTheme.webp",
       "readme": "https://github.com/lukxsofficial/modlists/blob/Ashveil/README.md",
       "download": "https://authored-files.wabbajack.org/Ashveil.wabbajack_3b0d50cd-6311-4a31-bd3b-020882c5383f",
       "machineURL": "lukxsofficiallists",
