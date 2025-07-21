@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Ashveil Eine Deutsche Modliste",
+    "title": "Ashveil - Eine Deutsche Modliste",
     "description": "Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint.",
     "author": "lukxsofficial",
     "maintainers": [
@@ -9,13 +9,13 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "NSFW",
+      "SFW",
       "Steam",
       "Vanilla+"
       "Combat Overhaul"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
