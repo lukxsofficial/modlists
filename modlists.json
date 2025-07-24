@@ -1,31 +1,44 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Ashveil - Eine Deutsche Modliste",
-    "description": "Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint.",
+    "description": "Ashveil ist eine d\u00FCstere Fantasy-\u00DCberarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses \u00DCberleben und beeindruckende Atmosph\u00E4re vereint.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Combat Overhaul"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
-      "download": "https://authored-files.wabbajack.org/Ashveil.wabbajack_b8a52ba8-4045-4c25-9589-74ea6abe1fb1",
+      "download": "https://authored-files.wabbajack.org/Ashveil.wabbajack_c32e80d9-751a-4fa4-9717-159d2d4ef856",
       "machineURL": "lukxsofficiallists",
-      "discordURL": "https://discord.gg/tamriel"
+      "discordURL": "https://discord.gg/tamriel",
+      "websiteURL": ""
     },
-    "download_metadata": {"Hash":"Dmk6s3cW4s8=","Size":1168086665,"NumberOfArchives":910,"SizeOfArchives":99036018452,"NumberOfInstalledFiles":107395,"SizeOfInstalledFiles":138891395341,"TotalSize":237927413793},
-    "version": "0.8.5"
+    "download_metadata": {
+      "Hash": "lHtZoES+Xn4=",
+      "Size": 1083634742,
+      "NumberOfArchives": 911,
+      "SizeOfArchives": 100578324123,
+      "NumberOfInstalledFiles": 103820,
+      "SizeOfInstalledFiles": 145457086245,
+      "TotalSize": 246035410368
+    },
+    "version": "0.8.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-07-24T13:24:01.7168147Z",
+    "repositoryName": ""
   }
 ]
