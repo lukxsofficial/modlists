@@ -1,12 +1,7 @@
 [
   {
     "title": "Ashveil - Eine Deutsche Modliste",
-    "description": "*EARLY ACCESS*
-Die Modliste ist verfügbar und spielbar, dennoch werden Bugs etc. auftreten können.
-
--------------------------------------
-
-Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint.",
+    "description": "EARLY ACCESS Die Modliste ist verfügbar und spielbar, dennoch werden Bugs etc. auftreten können. Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
@@ -48,3 +43,4 @@ Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampf
   }
 
 ]
+
