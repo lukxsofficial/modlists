@@ -1,7 +1,7 @@
 [
   {
     "title": "Ashveil - Eine Deutsche Modliste",
-    "description": "EARLY ACCESS Die Modliste ist verfügbar und spielbar, dennoch werden Bugs etc. auftreten können. Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint.",
+    "description": "EARLY ACCESS Die Modliste ist verf\u00FCgbar und spielbar, dennoch werden Bugs etc. auftreten k\u00F6nnen. Ashveil ist eine d\u00FCstere Fantasy-\u00DCberarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses \u00DCberleben und beeindruckende Atmosph\u00E4re vereint.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
@@ -22,25 +22,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
-      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_97d6244f-ee6c-4400-9a87-3c5a999afdd8",
+      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_27437e62-24fd-4417-836d-662838473ae4",
       "machineURL": "lukxsofficiallists",
       "discordURL": "https://discord.gg/tamriel",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "qS9qrtCNdrE=",
-      "Size": 433922778,
-      "NumberOfArchives": 1056,
-      "SizeOfArchives": 108630357049,
-      "NumberOfInstalledFiles": 111019,
-      "SizeOfInstalledFiles": 156479763062,
-      "TotalSize": 265110120111
+      "Hash": "Wtg6xflHZtw=",
+      "Size": 423497158,
+      "NumberOfArchives": 1136,
+      "SizeOfArchives": 116277596887,
+      "NumberOfInstalledFiles": 155975,
+      "SizeOfInstalledFiles": 162910806274,
+      "TotalSize": 279188403161
     },
-    "version": "0.9",
+    "version": "0.9.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-29T17:17:14.0877176Z",
+    "dateUpdated": "2025-08-10T09:52:18.9497767Z",
     "repositoryName": ""
   }
-
 ]
-
