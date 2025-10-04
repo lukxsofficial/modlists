@@ -23,27 +23,23 @@
     "links": {
       "image": "https://github.com/lukxsofficial/modlists/blob/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
-      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_27437e62-24fd-4417-836d-662838473ae4",
+      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_100fa3ac-401d-4d3b-a083-0873a0518274",
       "machineURL": "lukxsofficiallists",
       "discordURL": "https://discord.gg/tamriel",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/150110"
     },
     "download_metadata": {
-      "Hash": "Wtg6xflHZtw=",
-      "Size": 423497158,
-      "NumberOfArchives": 1136,
-      "SizeOfArchives": 116277596887,
-      "NumberOfInstalledFiles": 155975,
-      "SizeOfInstalledFiles": 162910806274,
-      "TotalSize": 279188403161
+      "Hash": "8vs3HUbr4/8=",
+      "Size": 417053038,
+      "NumberOfArchives": 1347,
+      "SizeOfArchives": 117686364452,
+      "NumberOfInstalledFiles": 187906,
+      "SizeOfInstalledFiles": 177314129716,
+      "TotalSize": 295000494168
     },
-    "version": "0.9.2",
+    "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-10T09:52:18.9497767Z",
+    "dateUpdated": "2025-10-04T19:05:28.7085455Z",
     "repositoryName": ""
   }
-
 ]
-
-
-
