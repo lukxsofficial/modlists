@@ -1,7 +1,7 @@
 [
   {
     "title": "Ashveil - Eine Deutsche Modliste",
-    "description": "Ashveil ist eine düstere Fantasy-Überarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses Überleben und beeindruckende Atmosphäre vereint. Jeder Moment wird zur Prüfung von Timing, Stärke und Entschlossenheit. Du kämpfst, um zu überleben – oder du vergehst zu Asche.",
+    "description": "Ashveil ist eine d\u00FCstere Fantasy-\u00DCberarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses \u00DCberleben und beeindruckende Atmosph\u00E4re vereint. Jeder Moment wird zur Pr\u00FCfung von Timing, St\u00E4rke und Entschlossenheit. Du k\u00E4mpfst, um zu \u00FCberleben \u2013 oder du vergehst zu Asche.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
@@ -23,26 +23,23 @@
     "links": {
       "image": "https://github.com/lukxsofficial/modlists/blob/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
-      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_100fa3ac-401d-4d3b-a083-0873a0518274",
+      "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_472f11bf-b235-4e4f-9a6b-eb3e07118b00",
       "machineURL": "lukxsofficiallists",
       "discordURL": "https://discord.gg/tamriel",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/150110"
     },
     "download_metadata": {
-      "Hash": "8vs3HUbr4/8=",
-      "Size": 417053038,
+      "Hash": "/W7iVH2z4RE=",
+      "Size": 417079878,
       "NumberOfArchives": 1347,
       "SizeOfArchives": 117686364452,
       "NumberOfInstalledFiles": 187906,
-      "SizeOfInstalledFiles": 177314129716,
-      "TotalSize": 295000494168
+      "SizeOfInstalledFiles": 177314129870,
+      "TotalSize": 295000494322
     },
     "version": "1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-10-04T19:05:28.7085455Z",
+    "dateUpdated": "2025-10-05T00:01:14.7302856Z",
     "repositoryName": ""
   }
-
 ]
-
-
