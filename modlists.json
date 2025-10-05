@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://github.com/lukxsofficial/modlists/main/AshveilTitle.webp",
+      "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
       "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_472f11bf-b235-4e4f-9a6b-eb3e07118b00",
       "machineURL": "lukxsofficiallists",
@@ -44,4 +44,5 @@
   }
 
 ]
+
 
