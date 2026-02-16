@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
@@ -44,3 +44,4 @@
   }
 
 ]
+
