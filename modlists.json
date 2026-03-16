@@ -11,7 +11,6 @@
     "tags": [
       "Steam",
       "DLC Required",
-      "Soulslike",
       "Combat Overhaul",
       "Dark Fantasy",
       "Total Overhaul"
@@ -42,7 +41,41 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-03-03T13:12:59.9106551Z",
     "repositoryName": "Ashveil"
+  },
+  {
+    "title": "Clearhaven",
+    "description": "Clearhaven is a lightweight Vanilla+ modlist for Skyrim AE built around stability, visual clarity, and performance. It does not aim to reinvent Skyrim - it refines it. The goal is simple: Skyrim as you remember it - cleaner, smoother, and more consistent.",
+    "author": "lukxsofficial",
+    "maintainers": [
+      "github/lukxsofficial"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Steam",
+      "DLC Required",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/lukxsofficial/Clearhaven/main/Clearhaven.webp",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/173852",
+      "download": "https://authored-files.wabbajack.org/Clearhaven.wabbajack_1d187be0-9b9c-4617-ab52-3a560b9812d9",
+      "machineURL": "Clearhaven",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/173852"
+    },
+    "download_metadata": {
+      "Hash": "",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0,
+      "TotalSize": 0
+    },
+    "version": "1.0.0",
+    "repositoryName": "Clearhaven"
   }
 
 ]
-
