@@ -26,7 +26,8 @@
       "download": "https://authored-files.wabbajack.org/AshveilModliste.wabbajack_01df7f59-4267-4e1f-be4b-2aab0ed803e6",
       "machineURL": "Ashveil",
       "discordURL": "https://discord.gg/tamriel",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/150110"
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "7XasQJT2soo=",
@@ -44,38 +45,44 @@
   },
   {
     "title": "Clearhaven",
-    "description": "Clearhaven is a lightweight Vanilla+ modlist for Skyrim AE built around stability, visual clarity, and performance. It does not aim to reinvent Skyrim - it refines it. The goal is simple: Skyrim as you remember it - cleaner, smoother, and more consistent.",
+    "description": "Clearhaven is a lightweight Vanilla\u002B modlist for Skyrim AE built around stability, visual clarity, and performance. It does not aim to reinvent Skyrim - it refines it. The goal is simple: Skyrim as you remember it - cleaner, smoother, and more consistent.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Steam",
       "DLC Required",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/Clearhaven/Clearhaven.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/173852",
-      "download": "https://authored-files.wabbajack.org/Clearhaven.wabbajack_1d187be0-9b9c-4617-ab52-3a560b9812d9",
+      "download": "https://authored-files.wabbajack.org/Clearhaven - A Vanilla Modlist.wabbajack_de94938d-23ac-49f6-a0bb-0c55bc705ae6",
       "machineURL": "Clearhaven",
-      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/173852"
+      "discordURL": "",
+      "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/173852",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "",
-      "Size": 0,
-      "NumberOfArchives": 0,
-      "SizeOfArchives": 0,
-      "NumberOfInstalledFiles": 0,
-      "SizeOfInstalledFiles": 0,
-      "TotalSize": 0
+      "Hash": "houTe9yD61g=",
+      "Size": 165424212,
+      "NumberOfArchives": 344,
+      "SizeOfArchives": 55185037009,
+      "NumberOfInstalledFiles": 74422,
+      "SizeOfInstalledFiles": 79574113033,
+      "TotalSize": 134759150042
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-03-17T13:22:15.4503697Z",
     "repositoryName": "Clearhaven"
   }
-
 ]
