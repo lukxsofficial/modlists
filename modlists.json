@@ -86,8 +86,8 @@
     "repositoryName": "lukxsofficial"
   },
   {
-    "title": "Clearhaven",
-    "description": "Clearhaven is a lightweight Vanilla\u002B modlist for Skyrim AE built around stability, visual clarity, and performance. It does not aim to reinvent Skyrim - it refines it. The goal is simple: Skyrim as you remember it - cleaner, smoother, and more consistent.",
+    "title": "Skyrim Essentials Framework",
+    "description": "This framework provides a stable and future-proof foundation for Skyrim modding, built around essential engine fixes, core libraries, and widely adopted frameworks. It is designed to maximize compatibility while remaining lightweight and non-invasive. By avoiding gameplay overhauls and relying on ENB as a visual baseline, it allows full flexibility for users to shape their own modlists without unnecessary conflicts. Ideal for both personal setups and large-scale modlist development, it ensures stability, performance, and a modern modding environment.",
     "author": "lukxsofficial",
     "maintainers": [
       "github/lukxsofficial"
@@ -125,6 +125,6 @@
     "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-03-17T13:22:15.4503697Z",
-    "repositoryName": "lukxsofficial"
+    "repositoryName": "Essentials"
   }
 ]
