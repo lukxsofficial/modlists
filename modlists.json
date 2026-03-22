@@ -115,12 +115,12 @@
     },
     "download_metadata": {
       "Hash": "",
-      "Size": ,
-      "NumberOfArchives": ,
-      "SizeOfArchives": ,
-      "NumberOfInstalledFiles": ,
-      "SizeOfInstalledFiles": ,
-      "TotalSize": 
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0,
+      "TotalSize": 0
     },
     "version": "1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
