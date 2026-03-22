@@ -41,7 +41,7 @@
     "version": "1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-03-03T13:12:59.9106551Z",
-    "repositoryName": "Ashveil"
+    "repositoryName": "lukxsofficial"
   },
   {
     "title": "Clearhaven",
@@ -83,6 +83,48 @@
     "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-03-17T13:22:15.4503697Z",
-    "repositoryName": "Clearhaven"
+    "repositoryName": "lukxsofficial"
+  },
+  {
+    "title": "Clearhaven",
+    "description": "Clearhaven is a lightweight Vanilla\u002B modlist for Skyrim AE built around stability, visual clarity, and performance. It does not aim to reinvent Skyrim - it refines it. The goal is simple: Skyrim as you remember it - cleaner, smoother, and more consistent.",
+    "author": "lukxsofficial",
+    "maintainers": [
+      "github/lukxsofficial"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Steam",
+      "DLC Required",
+      "Vanilla\u002B"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/Essentials/Essentials.webp",
+      "readme": "",
+      "download": "",
+      "machineURL": "Essentials",
+      "discordURL": "",
+      "websiteURL": "",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "",
+      "Size": 165424212,
+      "NumberOfArchives": ,
+      "SizeOfArchives": ,
+      "NumberOfInstalledFiles": ,
+      "SizeOfInstalledFiles": ,
+      "TotalSize": 
+    },
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-03-17T13:22:15.4503697Z",
+    "repositoryName": "lukxsofficial"
   }
 ]
