@@ -107,24 +107,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/Essentials/Essentials.webp",
       "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/175286",
-      "download": "https://authored-files.wabbajack.org/Essentials_Framework.wabbajack_bc058ac4-4cf8-43cd-bbc6-bbda7050e794",
+      "download": "https://authored-files.wabbajack.org/Essentials_Framework.wabbajack_142c554a-a122-41fa-9e4a-91211f5a3864",
       "machineURL": "Essentials",
       "discordURL": "",
       "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/175286",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "CKbDiLryHgs=",
-      "Size": 97180487,
-      "NumberOfArchives": 144,
-      "SizeOfArchives": 28562104153,
-      "NumberOfInstalledFiles": 23553,
-      "SizeOfInstalledFiles": 35097439070,
-      "TotalSize": 63659543223
+      "Hash": "3sj88dE6HVU=",
+      "Size": 97186246,
+      "NumberOfArchives": 141,
+      "SizeOfArchives": 28562090596,
+      "NumberOfInstalledFiles": 23550,
+      "SizeOfInstalledFiles": 35098290731,
+      "TotalSize": 63660381327
     },
-    "version": "1.0",
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-22T11:36:46.3011011Z",
+    "dateUpdated": "2026-03-26T23:33:15.5786015Z",
     "repositoryName": "lukxsofficial"
   }
 ]
